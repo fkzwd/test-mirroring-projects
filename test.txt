@@ -1,1 +1,3 @@
 dev commit
+dev commit from user 'test-dev'
+dev commit from email 'haha@mail.ru'
